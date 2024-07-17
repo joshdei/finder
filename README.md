@@ -1,6 +1,4 @@
-Here is a simple README file for a program designed to match users for meetings:
 
----
 
 # User Matching Program
 
@@ -86,6 +84,4 @@ For any questions or issues, please contact:
 - Name: Joshua Deinne
 - Email: joshuadeinne@gmail.com
 
----
 
-Feel free to customize this README file further based on the specific details and features of your program.
